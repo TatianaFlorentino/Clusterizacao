@@ -11,4 +11,9 @@ TechCrunch
 O jornal New York Times
 Dados: A disponibilidade de dados é desde quando a COVID-19 foi declarada como uma pandemia, ou seja, de 11 de março de 2020 até o presente (14 de fevereiro de 2023).Alguns dados como fontes, lista de funcionários demitidos e data de adição foram omitidos aqui e os dados completos podem ser encontrados em Layoffs.fyi. Dados extraído do kaggle https://www.kaggle.com/datasets/swaptr/layoffs-2022?resource=download
 
+ ![Screenshot (238)](https://user-images.githubusercontent.com/124578882/217106406-fb7f3f3c-a7ab-474f-9a03-1b5c859bd6ce.png)
+
 Créditos:: Roger Lee
+
+
+
