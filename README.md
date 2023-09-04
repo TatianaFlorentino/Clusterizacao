@@ -15,5 +15,11 @@ Dados: A disponibilidade de dados é desde quando a COVID-19 foi declarada como 
 
 Créditos:: Roger Lee
 
+Segue uma ideia de como está o mercado nos EUA.
+
+https://colab.research.google.com/drive/1Iyz_GucKfx6VkLfUmh7PjvVUm1kt7wzT#scrollTo=whiZNiSxlCoN
+
+
+
 
 
